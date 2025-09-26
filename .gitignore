@@ -1,0 +1,6 @@
+wandb/
+huggingface_tokenizers_cache/
+unsloth_compiled_cache/
+outputs/
+.config/
+FETCH_HEAD
