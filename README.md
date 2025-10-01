@@ -1,4 +1,4 @@
-```markdown
+
 # A Mathematical Framework for Custom Reward Functions in Job Application Evaluation using RL
 
 This repository presents a practical implementation of reinforcement learning (GRPO) and supervised fine-tuning (SFT) for automated evaluation of job applications. It includes datasets, trained models, and execution-ready notebooks.
@@ -14,9 +14,6 @@ GitHub **cannot render some of the `.ipynb` files** due to Jupyter widget metada
 They may display errors like:
 'Invalid Notebook: the 'state' key is missing from 'metadata.widgets'
 
-```
-
-
 
 ### ✅ Option 1: Clone Locally (Recommended)
 
@@ -24,7 +21,7 @@ They may display errors like:
 git clone https://github.com/shreyanshjain05/A-Mathematical-Framework-for-Custom-Reward-Functions-in-Job-Application-Evaluation-using-RL
 ```
 
-```bash
+```
 cd A-Mathematical-Framework-for-Custom-Reward-Functions-in-Job-Application-Evaluation-using-RL
 jupyter notebook  # or open in VS Code
 ```
