@@ -5,6 +5,12 @@ This repository presents a practical implementation of reinforcement learning (G
 
 ---
 
+## 📄 Paper Links
+
+- **IEEE Xplore (Official Publication):** https://ieeexplore.ieee.org/document/11325393  
+- **arXiv Preprint (Open Access):** https://arxiv.org/abs/2511.16073  
+
+
 ## 🚨 Important – How to View the Notebooks
 
 GitHub **cannot render some of the `.ipynb` files** due to Jupyter widget metadata incompatibility.  
