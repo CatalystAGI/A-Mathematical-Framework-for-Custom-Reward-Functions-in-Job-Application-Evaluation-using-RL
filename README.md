@@ -77,3 +77,25 @@ A-Mathematical-Framework-for-Custom-Reward-Functions-in-Job-Application-Evaluati
     └── grpo-script.ipynb
     └── sft_training.ipynb            
 ```
+## 📖 Citation
+
+If you use this work, please cite:
+
+### APA Format
+
+> Jain, S., Singhvi, M., Jain, S. R., S, P., Lokesh, D., Chittibabu, N., & Anandhan, A. (2025). *Mathematical Framework for Custom Reward Functions in Job Application Evaluation using Reinforcement Learning*. In **2025 IEEE 7th International Conference on Computing, Communication and Automation (ICCCA)** (pp. 1–6). IEEE. https://doi.org/10.1109/ICCCA66364.2025.11325393
+
+---
+
+### BibTeX
+
+```bibtex
+@INPROCEEDINGS{11325393,
+  author    = {Jain, Shreyansh and Singhvi, Madhav and Jain, Shreya Rahul and S, Pranav and Lokesh, Dishaa and Chittibabu, Naren and Anandhan, Akash},
+  title     = {Mathematical Framework for Custom Reward Functions in Job Application Evaluation using Reinforcement Learning},
+  booktitle = {2025 IEEE 7th International Conference on Computing, Communication and Automation (ICCCA)},
+  year      = {2025},
+  pages     = {1--6},
+  doi       = {10.1109/ICCCA66364.2025.11325393},
+  keywords  = {Application Tracking System, Small Language Model, GRPO, Custom Reward Function, Reinforcement Learning, Fine-tuning}
+}
